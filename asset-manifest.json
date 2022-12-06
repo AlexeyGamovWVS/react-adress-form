@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-adress-form/static/css/main.cf1fdfab.css",
+    "main.js": "/react-adress-form/static/js/main.3d276d8b.js",
+    "static/media/JetBrainsMono-Regular.woff2": "/react-adress-form/static/media/JetBrainsMono-Regular.346298cbf85baeb49bd9.woff2",
+    "index.html": "/react-adress-form/index.html",
+    "static/media/arrow.svg": "/react-adress-form/static/media/arrow.9cde50f944603caf6541.svg",
+    "static/media/arrow_active.svg": "/react-adress-form/static/media/arrow_active.6f3203a9623ada48c215.svg",
+    "main.cf1fdfab.css.map": "/react-adress-form/static/css/main.cf1fdfab.css.map",
+    "main.3d276d8b.js.map": "/react-adress-form/static/js/main.3d276d8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf1fdfab.css",
+    "static/js/main.3d276d8b.js"
+  ]
+}
