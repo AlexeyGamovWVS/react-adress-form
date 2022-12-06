@@ -1,3 +1,7 @@
+# О проекте
+Простой проект формы оформления заяки на доставку, сделанный на реакт
+
+[Check it](https://alexeygamovwvs.github.io/react-adress-form)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
